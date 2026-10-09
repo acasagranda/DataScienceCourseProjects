@@ -1,6 +1,6 @@
 # DataScienceCourseProjects
 
-Project 1 for CodeAcademy 'Learn Python for Data Science' skill
+Project 1 for Codecademy 'Learn Python for Data Science' skill
 
 Use Python and pandas to create a data science project.
 
